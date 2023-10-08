@@ -1,2 +1,2 @@
 ### PalindromSayi
-#### Farklı bir çözüm olması adına sayıyı ilk olarak string çevirip sonrasında stringi kullanarak sayının tersini aldım.
+#### Farklı bir çözüm olması adına sayıyı ilk olarak string' e çevirip sonrasında string' i kullanarak sayının tersini aldım.
